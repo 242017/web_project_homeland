@@ -1,16 +1,16 @@
-# Triple Espresso
-
-Cafetería TripleExpresso
+Web Project Homeland
 
 Descripción del Proyecto
 
-Cafetería TripleExpresso es una página web diseñada para proporcionar información sobre una cafetería especializada en café de especialidad. La página incluye funcionalidades como:
+Web Project Homeland es una página web diseñada para proporcionar información sobre un hogar ideal y su entorno. La página incluye funcionalidades como:
 
-Un menú con recetas de café y snacks.
+Una sección de presentación con información clave.
 
-Un sistema de reserva de mesas.
+Galería de imágenes representativas del proyecto.
 
-Información de contacto y redes sociales.
+Un formulario de contacto para consultas.
+
+Información de redes sociales y ubicación.
 
 Un diseño responsivo y accesible para mejorar la experiencia del usuario.
 
@@ -30,14 +30,18 @@ Planes de Mejora
 
 Durante el desarrollo de este proyecto, surgieron algunas ideas de mejora que podrían implementarse en el futuro:
 
-Adaptabilidad Total: Mejorar la responsividad para dispositivos móviles y tablets.
+Mejorar la adaptabilidad: Optimizar el diseño para una experiencia más fluida en dispositivos móviles.
 
-Sistema de Reservas Mejorado: Implementar una base de datos y backend para gestionar reservas en tiempo real.
+Agregar un mapa interactivo: Incluir una API de mapas para mostrar ubicaciones importantes.
 
-Animaciones y Efectos: Agregar animaciones CSS y efectos de transición para mejorar la experiencia de usuario.
+Implementar animaciones CSS: Añadir transiciones suaves para mejorar la experiencia del usuario.
 
-Modo Oscuro: Incluir una opción para cambiar entre modo claro y oscuro.
-Mejora en Accesibilidad: Implementar ARIA roles y mejorar la navegación con teclado.
+Modo Oscuro: Ofrecer una opción para cambiar entre modo claro y oscuro.
+
+Optimización de accesibilidad: Implementar mejoras para facilitar la navegación con teclado y lectores de pantalla.
+
+Enlace de GITHUB:
+https://242017.github.io/web_project_homeland/
 
 Créditos
 Autor: Nicolás Ibagué
